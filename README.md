@@ -1,5 +1,7 @@
 # code_alpha_irisflowerclassifiacation
 
+colab file : https://colab.research.google.com/github/muhammed-sajid/code_alpha_irisflowerclassifiacation/blob/main/IrisFlowerClassification%20(2).ipynb
+
 ## Data set 
 <img width="856" height="587" alt="image" src="https://github.com/user-attachments/assets/c580e387-4dc5-4328-86bb-4fc319e8e3a2" />
 
